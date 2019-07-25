@@ -20,4 +20,4 @@ Occupancy forcast for a time range, ideally for 365 days in the future with foll
 
 ## Background
 <!-- Optional, give us some info on what you are working on. This will help us figuring out the best answer -->
-As per our email conversation, this for Apaleo integration with HQ plus.
+As per our email conversation, this is for Apaleo integration with HQ plus.
