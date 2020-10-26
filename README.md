@@ -1,6 +1,4 @@
 # apaleo API
-All your questions are belong to us.
-
 This repo is for you to ask questions and support issues you encounter when using the apaleo APIs.
 
 # Reporting issues
