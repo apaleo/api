@@ -1,11 +1,14 @@
 # apaleo API
-This repo is for you to ask questions and support issues you encounter when using the apaleo APIs.
+This is a place for you to engage with apaleo community and ask questions, report issues you encounter when using the apaleo APIs.
 
-# Reporting issues
-Simply create one of those issues: 
-- **bug**: when you receive a 500 response, something does not work as described in the documentation, or anything unexpected
-- **question**: when you're stuck on a specific implementation detail, or have a general question on all things apaleo API
-- **feature request**: make a wish.
+# Join us in discussions
+We use GitHub Discussions to talk about all sorts of topics related to documentation and apaleo API. For example: if you'd like to report a bug, have a question or have a great new idea, join us in [discussions](https://github.com/apaleo/api/discussions).
+
+Simply create a new discussion one of those categories:
+- **General**: Chat about anything and everything related to apaleo platform
+- **Ideas**: make a wish.
+- **Q&A**: ask the community for help when something does not work as described in the documentation, or anything unexpected as well as when you're stuck on a specific implementation detail, or have a general question on all things apaleo API
+- **Show and tell**: show off something you've made with apaleo platform
 
 # What to write
 The more information you give us, the easier it will be for us to help you. However, please do *not* post any passwords, client credentials, tokens, secrets, personal data like emails, customer names or account codes. This is a public space.
