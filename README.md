@@ -6,7 +6,7 @@ We use GitHub Discussions to talk about all sorts of topics related to documenta
 
 Simply create a new discussion one of those categories:
 - **General**: Chat about anything and everything related to apaleo platform
-- **Ideas**: make a wish.
+- **Ideas**: make a wish
 - **Q&A**: ask the community for help when something does not work as described in the documentation, or anything unexpected as well as when you're stuck on a specific implementation detail, or have a general question on all things apaleo API
 - **Show and tell**: show off something you've made with apaleo platform
 
