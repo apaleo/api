@@ -16,6 +16,6 @@ The more information you give us, the easier it will be for us to help you. Howe
 This repo is a nice and happy place. Please don't troll, insult, post adds or anything your grandparents would disapprove of. If we see this happening, we'll delete the comments and might even ban you.
 
 # More info
-- [API Gateway](https://api.apaleo.com/)
-- [Dev Blog](https://apaleo.com/dev)
+- [API Gateway](https://api.apaleo.com)
+- [Dev Blog](https://apaleo.dev)
 
